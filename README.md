@@ -10,6 +10,8 @@ android app that looks similar to whatsapp and have additonal features like emot
 ![image](https://user-images.githubusercontent.com/67829870/172049260-a226cb29-ab03-4177-b988-e0ca1b3e5bbf.png)
 ### Add status
 ![image](https://user-images.githubusercontent.com/67829870/172049279-5c5d5759-ba21-4cb8-83f8-830f19c7e29f.png)
+![image](https://user-images.githubusercontent.com/67829870/172049400-3a0955ce-4d47-402c-8771-612f19094516.png)
+
 ### Notification
 ![image](https://user-images.githubusercontent.com/67829870/172049362-b614f3af-c3a8-4e99-b395-576010708898.png)
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61355605536",
+    "project_id": "yr-messen",
+    "storage_bucket": "yr-messen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61355605536:android:f5a088063a693831ccc645",
+        "android_client_info": {
+          "package_name": "yash_g.ritik_k.YR_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61355605536-3if36v7lf10hmjl1b1kebi8dv0ma7qa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBilol3jAkYGt8fyiAvi2oDrWQlsINZEek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61355605536-3if36v7lf10hmjl1b1kebi8dv0ma7qa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
